@@ -12,6 +12,8 @@ What are the main factors that determine the price of accommodation?
 As in traditional hotels, does offering amenities impact the final price?
 Which Seattle neighborhood is the most expensive and cheapest to rent?
 
+<a href='https://danielrrb30.medium.com/the-importance-of-data-analysis-on-data-science-process-28513919b2d8'>Medium link</a>
+
 # Dataset and libraries
 
 ## Dataset
